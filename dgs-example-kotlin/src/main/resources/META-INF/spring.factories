@@ -1,0 +1,3 @@
+org.springframework.nativex.type.NativeConfiguration=\
+  org.springframework.experimental.graphql.GraphQlNativeHints, \
+  org.springframework.experimental.graphql.DgsNativeHints
